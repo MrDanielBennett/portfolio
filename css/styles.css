@@ -10,6 +10,10 @@
   border: none;
 }
 
+.display {
+  width: 200px;
+}
+
 .movie {
   font-style: italic;
 }

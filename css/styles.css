@@ -1,6 +1,12 @@
 .container {
   float: left;
 }
+
+.media {
+  width: 100px;
+  border: none;
+}
+
 img {
   width: 400px;
   border: solid #BCE8F1;

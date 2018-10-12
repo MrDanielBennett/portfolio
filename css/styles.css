@@ -1,9 +1,10 @@
 .container {
-
+  float: left;
 }
 img {
   width: 400px;
-  border: solid #72D3FF;
+  border: solid #BCE8F1;
+  border-radius: 10px;
 }
 
 .header h2 {

@@ -13,7 +13,7 @@ _This Portfolio webpage contains information about myself (Daniel Bennett) and s
 * _Clone or Download from Github @ https://github.com/MrDanielBennett/portfolio.git
 * Run index.html
 or
-* _Visit GitHub Page @
+* _Visit GitHub Page @ https://mrdanielbennett.github.io/portfolio
 
 
 ## Known Bugs

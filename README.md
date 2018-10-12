@@ -14,7 +14,7 @@ _This Portfolio webpage contains information about myself (Daniel Bennett) and s
 * Run index.html
 or
 * _Visit GitHub Page @ https://mrdanielbennett.github.io/portfolio
-
+*Navigate page from browser
 
 ## Known Bugs
 

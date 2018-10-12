@@ -1,6 +1,12 @@
 .container {
   float: left;
 }
+.jumbotron {
+  color: #31708f;
+  background-color: #d9edf7;
+  border: solid #BCE8F1;
+  padding-bottom: 5px;
+}
 
 .detail{
   font-size: 12px;

@@ -2,9 +2,16 @@
   float: left;
 }
 
+.detail{
+  font-size: 12px;
+}
 .media {
   width: 100px;
   border: none;
+}
+
+.movie {
+  font-style: italic;
 }
 
 img {
